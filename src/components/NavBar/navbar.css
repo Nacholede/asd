@@ -1,0 +1,17 @@
+.nav-bar {
+    width: 100%;
+    color: red;
+    opacity: 75%;
+    margin: 0;
+}
+
+ul {
+    list-style: none;
+}
+
+a{
+    text-decoration: none;
+    font-weight:400;
+    font-size: 1.15em;
+    color:rgb(59, 59, 50)
+  }
